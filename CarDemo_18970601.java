@@ -1,11 +1,4 @@
-/*
-Student ID:18970601
-Name: Ibrahim George 
-Campus: Penrith 
-Tutor Name: Nick Tothill
-Class Day: Monday
-Class Name: Programming Techniques
- */
+
 import java.util.Scanner;
 public class CarDemo_18970601 {
 
